@@ -1,0 +1,7 @@
+bot:
+  botName: 1774642817 #bot??(????)
+  websocketUrl: ws://127.0.0.1:8080 #go-cqhttp??????websocket??(?ws://127.0.0.1:6700)
+  accessToken: #go-cqhttp????access_token
+spring:
+  profiles:
+    active: dev

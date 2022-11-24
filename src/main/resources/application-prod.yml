@@ -1,0 +1,4 @@
+driverPath: /data/googledriver/chromedriver
+imgPath: /data/hsbot/images/temp.PNG
+cardUrl: http://127.0.0.1:8080/?code=
+groupImagePaht: file:///data/hsbot/images/zlsnb.jpg
