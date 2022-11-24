@@ -4,4 +4,4 @@ bot:
   accessToken: #go-cqhttp????access_token
 spring:
   profiles:
-    active: dev
+    active: prod
